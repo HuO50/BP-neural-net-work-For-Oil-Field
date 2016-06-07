@@ -1,0 +1,2 @@
+# BPneuralnetworkForOilField
+用bp神经网络预测油田产量
